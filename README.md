@@ -4,7 +4,7 @@ I didn't generalize the code, nor did I manage to find the time to make it run i
 
 ### What you can do with these:
 * findnewTeams.ipynb: Crawl a website (the competition page with all the youtube videos embeded on it) and extract the team names and youtube url into a csv file.
-* findNewTeams.ipynb: go fetch youtube likes for all valid url's on the csv file (use .ipynb if you want to play around with the code.
-* scrapperBS4.ipynb: 
+* scrapperBS4.ipynb: go fetch youtube likes for all valid url's on the csv file (use .ipynb if you want to play around with the code.
 
- eos.io Hong Kong hackathon competition to which I was 
+
+ 
